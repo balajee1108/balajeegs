@@ -13,12 +13,21 @@ After completing my education, I decided to transition into the data analytics f
  
 ## 🛠 Projects
 
-### [ANALYZING PIZZA SALES TRENDS](https://github.com/balajee1108/balaje)
+### [ANALYZING PIZZA SALES TRENDS](https://github.com/balajee1108/Analyzing-Pizza-Sales-Trends)
 **Description**:
     - To analyze pizza sales trends and provide actionable insights to improve business performance. This project aims to identify peak sales periods, popular pizza varieties, customer preferences, and regional sales distribution. ***SQL Code*** and ***Queries*** used for analysis
     -
 - **Technologies**: SQL, Excel
-- **Key Features**: List a few key features or functionalities.
+
+### [COVID-19 Report](https://github.com/balajee1108/COVID-19-Report)
+**Description**: To create an interactive and informative Power BI dashboard that provides real-time insights into COVID-19 statistics. The dashboard aims to visualize key metrics, track the spread of the virus, and support data-driven decision-making for public health authorities and the general public.
+
+- **Technologies**:
+  - Power BI: For data visualization, dashboard creation, and report generation.
+- **Outcomes**:
+  - An interactive Power BI dashboard providing real-time COVID-19 data and visualizations.
+  - Clear insights into the spread of the virus, vaccination progress, and regional differences.
+  - Support for informed decision-making and public communication through accessible and actionable data..
 
 
 
@@ -33,7 +42,7 @@ After completing my education, I decided to transition into the data analytics f
     - Bachelor of Science in Computer Science with percentage of 70.69%.
     - HSC in Biology-Maths group with percentage of 67%.
     - SSLC with percentage of 94%.
-    - 
+      
 ### 💡 Personal Interests
 - 📚 **Learning**: Always eager to learn new technologies and improve my professional skills.
 - 🎨 **Creativity**: I enjoy blending my technical skills with creative projects, like building interactive data dashboards.
