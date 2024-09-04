@@ -58,6 +58,8 @@ After completing my education, I decided to transition into the data analytics f
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balajee-gs)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/balajee_gs?igsh=aTZ6d3Fkam82eHBy&utm_source=qr)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8248905626)
+
 
 ***Glad to see you here*** 
 
