@@ -29,7 +29,14 @@ After completing my education, I decided to transition into the data analytics f
   - Clear insights into the spread of the virus, vaccination progress, and regional differences.
   - Support for informed decision-making and public communication through accessible and actionable data..
 
+### [Amazon Prime Video Dashboard ](https://github.com/balajee1108/COVID-19-Report)
+**Description**:  To create an interactive and insightful dashboard that provides a comprehensive overview of Amazon Prime Video's content performance, user engagement, and subscription metrics. The data has been sourced from Kaggle.
 
+- **Technologies**:
+  - Power BI: For data visualization, dashboard creation, and report generation.
+ - **Outcomes**:
+   - The Amazon Prime Video Dashboard in Power BI will enable stakeholders to monitor and analyze content performance, user engagement, and subscription trends.
+   - By leveraging this dashboard, the team can identify opportunities for content optimization, understand viewer preferences, and make informed decisions to enhance overall service quality and user satisfaction.
 
 ## 📜 Certifications
 
