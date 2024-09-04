@@ -29,7 +29,7 @@ After completing my education, I decided to transition into the data analytics f
   - Clear insights into the spread of the virus, vaccination progress, and regional differences.
   - Support for informed decision-making and public communication through accessible and actionable data..
 
-### [Amazon Prime Video Dashboard ](https://github.com/balajee1108/COVID-19-Report)
+### [Amazon Prime Video Dashboard ](https://github.com/balajee1108/prime-video-dashboard)
 **Description**:  To create an interactive and insightful dashboard that provides a comprehensive overview of Amazon Prime Video's content performance, user engagement, and subscription metrics. The data has been sourced from Kaggle.
 
 - **Technologies**:
