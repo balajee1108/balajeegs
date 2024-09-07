@@ -38,6 +38,20 @@ After completing my education, I decided to transition into the data analytics f
    - The Amazon Prime Video Dashboard in Power BI will enable stakeholders to monitor and analyze content performance, user engagement, and subscription trends.
    - By leveraging this dashboard, the team can identify opportunities for content optimization, understand viewer preferences, and make informed decisions to enhance overall service quality and user satisfaction.
 
+### [Power BI Job Simulation](https://github.com/balajee1108/Power-BI-job-simulation)
+**Overview**:
+ * Completed a job simulation where I strengthened my PowerBI skills to better
+   understand clients and their data visualisation needs.
+ * Demonstrated expertise in data visualization through the creation of Power BI
+   dashboards that effectively conveyed KPIs, showcasing the ability to respond
+   to client requests with well-designed solutions.
+ * Strong communication skills reflected in the concise and informative email
+   communication with engagement partners, delivering valuable insights and
+   actionable suggestions based on data analysis.
+ * Leveraged analytical problem-solving skills to examine HR data, particularly
+   focusing on gender-related KPIs, and identified root causes for gender
+   balance issues at the executive management level, highlighting a commitment
+   to data-driven decision-making
 ## 📜 Certifications
 
 - **[SQL and Relational Database](https://courses.cognitiveclass.ai/certificates/b1ede65d4b78470484662332ba87cfbe)** – Issued by [Cognitiveclass.ai by IBM Developer Skills Network], [August, 2024]
