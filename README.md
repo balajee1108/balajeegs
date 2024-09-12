@@ -36,7 +36,7 @@ After completing my education, I decided to transition into the data analytics f
    - The Amazon Prime Video Dashboard in Power BI will enable stakeholders to monitor and analyze content performance, user engagement, and subscription trends.
    - By leveraging this dashboard, the team can identify opportunities for content optimization, understand viewer preferences, and make informed decisions to enhance overall service quality and user satisfaction.
 
-### [Power BI Job Simulation](https://github.com/balajee1108/Power-BI-job-simulation)
+### [Power BI Job Simulation by PwC](https://github.com/balajee1108/Power-BI-job-simulation)
 **Overview**:
  * Completed a job simulation where I strengthened my PowerBI skills to better
    understand clients and their data visualisation needs.
