@@ -12,11 +12,7 @@ Hi there!👋 I'm Balajee G S, a passionate and aspiring Data Analyst fresher wi
 After completing my education, I decided to transition into the data analytics field. I'm currently undergoing a 3-month intensive course in data analytics, where I'm honing my skills in data visualization, data manipulation, and analytical thinking. My career ambition is to secure a position as a Data Analyst, where I can apply my knowledge and grow within the industry.
  
 ## 🛠 Projects
-### [Car Sales Dashboard using Power BI](https://github.com/balajee1108/Car-Sales-Dashboard)
-**Objective:** The objective of this project is to design and develop a dynamic and interactive Car Sales Dashboard using Power BI. The dashboard will visualize critical KPIs related to our car sales, helping us understand our sales performance over time and make data-driven decisions.
-    -
-- **Technologies**: Power BI, Excel.
-- 
+
 ### [COVID-19 Report](https://github.com/balajee1108/COVID-19-Report)
 **Description**: To create an interactive and informative Power BI dashboard that provides real-time insights into COVID-19 statistics. The dashboard aims to visualize key metrics, track the spread of the virus, and support data-driven decision-making for public health authorities and the general public.
 
@@ -35,7 +31,7 @@ After completing my education, I decided to transition into the data analytics f
  - **Outcomes**:
    - The Amazon Prime Video Dashboard in Power BI will enable stakeholders to monitor and analyze content performance, user engagement, and subscription trends.
    - By leveraging this dashboard, the team can identify opportunities for content optimization, understand viewer preferences, and make informed decisions to enhance overall service quality and user satisfaction.
-
+   
 ### [Power BI Job Simulation by PwC](https://github.com/balajee1108/Power-BI-job-simulation)
 **Overview**:
  * Completed a job simulation where I strengthened my PowerBI skills to better
@@ -50,6 +46,11 @@ After completing my education, I decided to transition into the data analytics f
    focusing on gender-related KPIs, and identified root causes for gender
    balance issues at the executive management level, highlighting a commitment
    to data-driven decision-making.
+
+### [Car Sales Dashboard using Power BI](https://github.com/balajee1108/Car-Sales-Dashboard)
+**Objective:** The objective of this project is to design and develop a dynamic and interactive Car Sales Dashboard using Power BI. The dashboard will visualize critical KPIs related to our car sales, helping us understand our sales performance over time and make data-driven decisions.
+    -
+- **Technologies**: Power BI, Excel.
 
 ### [Analyzing Pizza Sales Trends](https://github.com/balajee1108/Analyzing-Pizza-Sales-Trends)
 **Description**:
