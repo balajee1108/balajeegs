@@ -12,13 +12,11 @@ Hi there!👋 I'm Balajee G S, a passionate and aspiring Data Analyst fresher wi
 After completing my education, I decided to transition into the data analytics field. I'm currently undergoing a 3-month intensive course in data analytics, where I'm honing my skills in data visualization, data manipulation, and analytical thinking. My career ambition is to secure a position as a Data Analyst, where I can apply my knowledge and grow within the industry.
  
 ## 🛠 Projects
-
-### [ANALYZING PIZZA SALES TRENDS](https://github.com/balajee1108/Analyzing-Pizza-Sales-Trends)
-**Description**:
-    - To analyze pizza sales trends and provide actionable insights to improve business performance. This project aims to identify peak sales periods, popular pizza varieties, customer preferences, and regional sales distribution. ***SQL Code*** and ***Queries*** used for analysis
+### [Car Sales Dashboard using Power BI]()
+**Objective:** The objective of this project is to design and develop a dynamic and interactive Car Sales Dashboard using Power BI. The dashboard will visualize critical KPIs related to our car sales, helping us understand our sales performance over time and make data-driven decisions.
     -
-- **Technologies**: SQL, Excel
-
+- **Technologies**: Power BI, Excel.
+- 
 ### [COVID-19 Report](https://github.com/balajee1108/COVID-19-Report)
 **Description**: To create an interactive and informative Power BI dashboard that provides real-time insights into COVID-19 statistics. The dashboard aims to visualize key metrics, track the spread of the virus, and support data-driven decision-making for public health authorities and the general public.
 
@@ -51,7 +49,13 @@ After completing my education, I decided to transition into the data analytics f
  * Leveraged analytical problem-solving skills to examine HR data, particularly
    focusing on gender-related KPIs, and identified root causes for gender
    balance issues at the executive management level, highlighting a commitment
-   to data-driven decision-making
+   to data-driven decision-making.
+
+### [Analyzing Pizza Sales Trends](https://github.com/balajee1108/Analyzing-Pizza-Sales-Trends)
+**Description**:
+    - To analyze pizza sales trends and provide actionable insights to improve business performance. This project aims to identify peak sales periods, popular pizza varieties, customer preferences, and regional sales distribution. ***SQL Code*** and ***Queries*** used for analysis
+    -
+- **Technologies**: SQL, Excel
 ## 📜 Certifications
 
 - **[SQL and Relational Database](https://courses.cognitiveclass.ai/certificates/b1ede65d4b78470484662332ba87cfbe)** – Issued by [Cognitiveclass.ai by IBM Developer Skills Network], [August, 2024]
