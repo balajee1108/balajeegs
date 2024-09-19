@@ -76,8 +76,7 @@ After completing my education, I decided to transition into the data analytics f
   - ***Telugu*** - Speak
 
 
-[Download my resume](https://raw.githubusercontent.com/your-username/your-repo-name/main/your-resume-file.pdf)
-
+[Download my resume](file:///C:/Users/HP/Desktop/RESUME/BALAJEE%20G%20S%20-%20DATA%20ANALYST%20-%201.pdf)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balajee-gs)
