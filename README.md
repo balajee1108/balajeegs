@@ -75,8 +75,10 @@ After completing my education, I decided to transition into the data analytics f
   - ***English***  - Speak, Write, Read
   - ***Telugu*** - Speak
 
-##  **Resume**
+
+## **Resume**
 [Download my resume](https://github.com/balajee1108/resume)
+
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balajee-gs)
