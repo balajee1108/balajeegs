@@ -66,7 +66,7 @@ After completing my education, I decided to transition into the data analytics f
   
 ## 📜 Certifications
 
-- **[PYTHON ESSENTIAL 1 ](file:///C:/Users/HP/Desktop/certificates%20-%20DA/Python_Essentials_1_Badge20240920-8-oevv76.pdf)** – Issued by [Provided by CISCO NETWORKING ACADEMY in collaoration with OpenEDG PYTHON INSTITUTE], [September, 2024]
+- **[PYTHON ESSENTIAL 1 ](https:///C:/Users/HP/Desktop/certificates%20-%20DA/Python_Essentials_1_Badge20240920-8-oevv76.pdf)** – Issued by [Provided by CISCO NETWORKING ACADEMY in collaoration with OpenEDG PYTHON INSTITUTE], [September, 2024]
 - **[Power BI Job Stimulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_JhwW4LjzfEwfCTQzH_1725700046284_completion_certificate.pdf)** – Issued by [Forage] Powered by [PwC], [September 2024]
 - **[SQL and Relational Database](https://courses.cognitiveclass.ai/certificates/b1ede65d4b78470484662332ba87cfbe)** – Issued by [Cognitiveclass.ai by IBM Developer Skills Network], [August, 2024]
 - **[Introduction to SQL](https://simpli-web.app.link/e/cnvnlK8eCMb)** – Issued by [simplilearn], [August 2024]
