@@ -52,7 +52,7 @@ After completing my education, I decided to transition into the data analytics f
     -
 - **Technologies**: Power BI, Excel.
 
-### [Healthcare Analytics System](https://github.com/balajee1108/Analyzing-Pizza-Sales-Trends)
+### [Healthcare Analytics System](https://github.com/balajee1108/HEALTHCARE-ANALYTICS-SYSTEM)
 **Description**:
     - The Healthcare Analytics System is designed to manage and analyze data within a healthcare facility, providing a comprehensive view of patient care, doctor performance, billing, and staff management. This system integrates various aspects of healthcare data to facilitate better decision-making, streamline operations, and improve patient outcomes.
     -
