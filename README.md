@@ -52,11 +52,18 @@ After completing my education, I decided to transition into the data analytics f
     -
 - **Technologies**: Power BI, Excel.
 
+### [Healthcare Analytics System](https://github.com/balajee1108/Analyzing-Pizza-Sales-Trends)
+**Description**:
+    - The Healthcare Analytics System is designed to manage and analyze data within a healthcare facility, providing a comprehensive view of patient care, doctor performance, billing, and staff management. This system integrates various aspects of healthcare data to facilitate better decision-making, streamline operations, and improve patient outcomes.
+    -
+- **Technologies**: SQL, Excel
+
 ### [Analyzing Pizza Sales Trends](https://github.com/balajee1108/Analyzing-Pizza-Sales-Trends)
 **Description**:
     - To analyze pizza sales trends and provide actionable insights to improve business performance. This project aims to identify peak sales periods, popular pizza varieties, customer preferences, and regional sales distribution. ***SQL Code*** and ***Queries*** used for analysis
     -
-- **Technologies**: SQL, Excel
+- **Technologies**: SQL
+  
 ## 📜 Certifications
 
 - **[SQL and Relational Database](https://courses.cognitiveclass.ai/certificates/b1ede65d4b78470484662332ba87cfbe)** – Issued by [Cognitiveclass.ai by IBM Developer Skills Network], [August, 2024]
